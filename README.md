@@ -22,3 +22,8 @@ A Java-based GUI application to manage bus bookings, built using **Java Swing** 
 - MySQL (or your configured database)
 
 ---
+## 🗄️ Database Schema
+
+You can find the SQL schema here: [bus_management_schema.sql](Bus_Management_Schema.sql)
+
+> Run this file in MySQL (e.g., via phpMyAdmin, MySQL Workbench, or CLI) before running the application.
